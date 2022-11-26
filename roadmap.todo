@@ -1,0 +1,18 @@
+Roadmap aula:
+
+Criar servidor do 0 ou aproveitar a estrutura do Cassio.
+
+☐ Criar a pasta index.
+☐ Instalar e configurar o ejs
+☐ Configurar pasta de arquivos estáticos (simular erro para eles entenderem)
+☐ Alterar arquivos HTML para EJS
+☐ Criar rotas e controllers para renderizar os arquivos.
+☐ Componentizar o Header no arquivo da Home
+  ☐ Simular erros que podem ocorrer
+  ☐ Exercício: Inserir os headers nas demais páginas  
+  ☐ Explicar como alternar entre as páginas (agora será chamando as rotas)
+  ☐ Exercício: Componentizar o footer e inserir nas demais páginas
+
+Gerar o banco de dados:
+    ☐ Script na pasta utils > generateFakerCommerceDatabase.
+

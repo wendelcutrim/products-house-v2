@@ -13,9 +13,7 @@ main .products {
     width: 100%;
     display: flex;
     padding: 16px;
-
     gap: 16px;
-
     flex-wrap: wrap;
 }
 
@@ -25,12 +23,10 @@ main .card-product {
     display: flex;
     flex-direction: column;
     gap: 16px;
-
     padding: 20px;
-   
     transition: .2s all;
-
     border-radius: 8px;
+    justify-content: space-between;
 }
 
 main .card-product:hover {
@@ -42,6 +38,7 @@ main .card-product:hover {
 main .card-product img {
     max-height: 300px;
     transition: .3s all;
+    min-height: 260px;
 }
 
 main .card-product h3 {
@@ -88,6 +85,7 @@ main .card-product img:hover {
         background-color: white;
         display: flex;
         gap: 16px;
+        justify-content: space-between;
     }
 }
 

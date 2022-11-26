@@ -1,0 +1,230 @@
+{
+    "users": [
+        {
+            "id": "5bff8a58-f443-400e-ba7c-537e69b76a64",
+            "name": "Roberta Gulgowski",
+            "email": "Vanessa_Kling70@yahoo.com",
+            "password": "$2a$10$J.sF7a2UbjMzcfBv4FXNyepyUFNBTTlados/4vrTGoV3Xm4IymHOS"
+        },
+        {
+            "id": "76a08f06-3da3-4edc-baae-44f1abb8f893",
+            "name": "Hubert Kemmer",
+            "email": "Myriam.Harber61@yahoo.com",
+            "password": "$2a$10$zoPQH7zeAXXQJ/S7AnwDnOciv46eSY4FWoal9FjeI1Qa413sHK4r2"
+        },
+        {
+            "id": "31c54aaf-bb36-40c7-9424-06d7f686c530",
+            "name": "Melinda O'Keefe",
+            "email": "Art.Schultz@yahoo.com",
+            "password": "$2a$10$F3C3jT9TyMvKRKBaw5KD8.mJf/G67/baZvrneoJuPmfOPQ0i5TVqq"
+        },
+        {
+            "id": "134ebc39-709f-46a5-8ab5-44c12645ae97",
+            "name": "Ted Marks",
+            "email": "Deven56@gmail.com",
+            "password": "$2a$10$ins8Ck1AlJ63/dZKXbIKWuVx6G2AJP/rC3qtWF9VRM4Q3K5JgudmC"
+        },
+        {
+            "id": "569af4a1-b79a-4260-b2bf-4eb3118a126b",
+            "name": "Jodi Collier",
+            "email": "Valentina.Halvorson84@yahoo.com",
+            "password": "$2a$10$rjXLG90rJzPCb7MFdkCcg.PZZ4GodXsiKDRZkMNpMLYQutJT.lubm"
+        },
+        {
+            "id": "9f45e147-e4d0-4ed9-8af7-1070612ac717",
+            "name": "Allison Haley",
+            "email": "Eden_Koss@gmail.com",
+            "password": "$2a$10$WWYYzjZMmm6pmJNuYJpEXOLlBic83OKvUD9.5TDtlCRE.Sx1Rr1bu"
+        },
+        {
+            "id": "d9be87a9-0647-4300-bf90-083bf159c9ee",
+            "name": "Mildred Predovic",
+            "email": "Asa66@yahoo.com",
+            "password": "$2a$10$rnRfd4L98auY.UdLgWac9euvSM6Qz1RR6ojoMFqJKNJz3pMYcKeCC"
+        },
+        {
+            "id": "6221ac16-abca-4ff0-8db3-78f9ae4eef0d",
+            "name": "Luke Sporer",
+            "email": "Pasquale81@yahoo.com",
+            "password": "$2a$10$/eTKwBfx1Osgfqvx9zYEL.66YuZjQT1gtUPzUrQDNFcUdEaZly45q"
+        },
+        {
+            "id": "982a69f0-802d-4054-9c46-f7b13c40716e",
+            "name": "Stephen Kihn III",
+            "email": "Cedrick.McCullough98@gmail.com",
+            "password": "$2a$10$A2LUoyY4UP2fZwJG6q8wMuSNX62xPyzvQSrm2HVAvoOj4wuY4x51u"
+        },
+        {
+            "id": "4adc3ba7-3c4e-4493-8d06-e28fa9ae7749",
+            "name": "Timmy Rath",
+            "email": "Janice_Hamill62@yahoo.com",
+            "password": "$2a$10$JTtR4J90gdYG3nUhZZ4wMe1MD.gNN/dKVBK.nx2D5bA/5NLswa8Xi"
+        },
+        {
+            "id": "a5b53f08-c141-4992-9567-08b7baedb1f3",
+            "name": "Kara Mills",
+            "email": "Kaden_Mosciski@gmail.com",
+            "password": "$2a$10$jDixaqW0tf2t4pm9RXokK.dgNqOH880pymYnuC815gMVkMJ81q/gm"
+        },
+        {
+            "id": "0ee90558-e71e-4b59-8748-fb4214fe8f61",
+            "name": "Eileen Witting",
+            "email": "Natalie28@hotmail.com",
+            "password": "$2a$10$3EfysErwRv8JJ4ngSZVUDuBKh5RcNZeoxeErPKEnasqmyMJgoR5vG"
+        },
+        {
+            "id": "9e875e5d-4ce6-4b15-8d2a-df3e33b7565b",
+            "name": "Howard Mayer",
+            "email": "Shakira_Muller@hotmail.com",
+            "password": "$2a$10$avul.ma4T1veA6WnORk1JewA54mnEShRmr159plY04hJplAnfd5qy"
+        },
+        {
+            "id": "7f6654be-3eba-45a6-8e58-27c59d0e430f",
+            "name": "Ana Emard MD",
+            "email": "Maiya84@hotmail.com",
+            "password": "$2a$10$2vfvMpO2c7/GMJ3yzp5pJeRQtRq7K/3ztAjyjE8dpp.1ujUp/uKoS"
+        },
+        {
+            "id": "298bd08a-1745-4ae7-b2a5-c55c503cf504",
+            "name": "Christine Towne",
+            "email": "Gaston21@hotmail.com",
+            "password": "$2a$10$AfP1IdnvaIGA5eToXHmu0u8o2I2H9IGEJHFPZWFX4SUVT9LBJyHY6"
+        },
+        {
+            "id": "6a810a80-a077-4cb4-86e7-25c2bf00f420",
+            "name": "Gregory Cartwright",
+            "email": "Frederik.Stiedemann17@gmail.com",
+            "password": "$2a$10$Hvf46Y0Ti3UeN0xYwabxDOcjt1yrmE54QXRYjkTvHKgvFWj32w4sq"
+        }
+    ],
+    "products": [
+        {
+            "id": "b5c0d59e-254e-413d-9c5d-2728efa74234",
+            "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "price": "R$ 109,95",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "active": true
+        },
+        {
+            "id": "d6ec667b-900d-4a47-82ad-788b251b68e8",
+            "name": "Mens Casual Premium Slim Fit T-Shirts ",
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "price": "R$ 22,30",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "active": true
+        },
+        {
+            "id": "9715cb9c-1d89-4cda-b54f-51a784b76a13",
+            "name": "Mens Cotton Jacket",
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "price": "R$ 55,99",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "56e1477a-0a6d-48fb-932c-cd989698fa22",
+            "name": "Mens Casual Slim Fit",
+            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "price": "R$ 15,99",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "active": true
+        },
+        {
+            "id": "7689ab70-3282-4eee-be52-7619f44eb346",
+            "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "price": "R$ 695,00",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "active": true
+        },
+        {
+            "id": "3f410cc5-bb5a-4a19-b683-4e4db2bb34b3",
+            "name": "Solid Gold Petite Micropave ",
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "price": "R$ 168,00",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "active": true
+        },
+        {
+            "id": "26d20201-4a16-4423-871b-498581fe4df0",
+            "name": "White Gold Plated Princess",
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "price": "R$ 9,99",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "active": true
+        },
+        {
+            "id": "9c053e96-aaff-49d4-bc67-fa2ba49099e9",
+            "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "price": "R$ 10,99",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "active": true
+        },
+        {
+            "id": "6643ad30-9575-4ff2-b1ad-3f3b07ac12da",
+            "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "price": "R$ 64,00",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "active": true
+        },
+        {
+            "id": "4953069a-de88-457b-bf21-3b66e907bf91",
+            "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "price": "R$ 109,00",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "685e3c97-e0db-4488-ace0-e1de918a8223",
+            "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "price": "R$ 109,00",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "7de45345-4037-4095-9779-249290cba7c7",
+            "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "price": "R$ 114,00",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "8fda1af7-c017-4cdb-91d5-fb25b32b88e1",
+            "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "price": "R$ 599,00",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "cd0f9979-9979-4213-befd-de9af6ff8b37",
+            "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "price": "R$ 999,99",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "20908fdc-21c8-4175-acb5-544313acaf01",
+            "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "price": "R$ 56,99",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "active": true
+        },
+        {
+            "id": "332f4113-71f0-4154-bc8f-7ff763949bc4",
+            "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "price": "R$ 29,95",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "active": true
+        }
+    ]
+}
