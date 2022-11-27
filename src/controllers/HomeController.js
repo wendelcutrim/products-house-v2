@@ -2,7 +2,7 @@ const db = require('../database/db.json');
 
 const HomeConroller = {
     getHome: (req, res) => {
-        return res.render('home/home-page', {products: db.products});
+        return res.render('home/index', {products: db.products});
     },
 
     getLogin: (req, res) => {
