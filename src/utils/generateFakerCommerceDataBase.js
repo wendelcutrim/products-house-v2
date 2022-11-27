@@ -12,14 +12,16 @@ class Product {
     #price;
     #image;
     #active;
+    #stock;
 
-    constructor(name, description, price, image, active) {
+    constructor(name, description, price, image, active, stock) {
         this.id = generateID();
         this.name = name;
         this.description = description;
         this.price = price;
         this.image = image
         this.active = active;
+        this.stock = stock;
     }
 }
 
@@ -128,6 +130,7 @@ const createDatabase = async () => {
                 data.description,
                 data.price.toLocaleString('pt-BR', {minimumFractionDigits: 2, style: 'currency', currency: 'BRL'}),
                 data.image,
+                true,
                 true
             );
             
@@ -152,7 +155,3 @@ const createDatabase = async () => {
 }
 
 createDatabase();
-
-
-/* console.log(db); */
-/* fetchImage("car"); */

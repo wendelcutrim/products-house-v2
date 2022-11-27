@@ -45,10 +45,11 @@ main .card-product h3 {
     margin-top: 8px;
 }
 
-main .card-product button {
+main .card-product a {
     background-color: #8D72E1;
     color: white;
     font-weight: bold;
+    text-align: center;
 
     border: none;
     padding: 15px;
@@ -58,7 +59,7 @@ main .card-product button {
     transition: .3s all;
 }
 
-main .card-product button:hover {
+main .card-product a:hover {
     background-color: #654dae;
     box-shadow: none;
 }

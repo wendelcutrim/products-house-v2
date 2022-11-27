@@ -73,17 +73,12 @@
                         <span><%= product.name %></span>
                         <h3><%=product.price%></h3>
                     </div>
-                    <button>Comprar</button>
+                    <a href="/products/<%= product.id %>" target="_blank">Comprar</a>
                 </article>
             <% }) %> 
         </section>
     </main>
-
-    <footer>
-        <div class="container">
-            © Products House 2022 - Todos os direitos reservados
-        </div>
-    </footer>
+    <%- include('../components/footer.ejs') %>
 </body>
 
 </html>
