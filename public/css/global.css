@@ -238,7 +238,7 @@ footer .container {
     color: white;
 }
 
-h1::selection, h2::selection, h3::selection, span::selection, p::selection, li a::selection, footer .container::selection {
+h1::selection, h2::selection, h3::selection, span::selection, p::selection, li a::selection, footer .container::selection, strong::selection {
     background-color: yellow;
     color: black;
 }
