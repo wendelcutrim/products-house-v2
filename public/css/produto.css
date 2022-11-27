@@ -147,6 +147,13 @@
         padding: 20px;
     }
 
+    .product__image img {
+        max-height: 300px;
+        max-width: 100%;
+        border-radius: inherit;
+        transition: .6s all;
+    }
+
     .product__owner div {
        gap: 10px;
     }
