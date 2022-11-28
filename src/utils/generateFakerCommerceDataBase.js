@@ -136,7 +136,7 @@ const createDatabase = async () => {
             
             const user = new User(
                 faker.name.fullName(),
-                faker.internet.email(),
+                faker.internet.email().toLowerCase(),
                 '123456'
             );
         

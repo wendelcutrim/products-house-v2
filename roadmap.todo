@@ -13,7 +13,7 @@ Na aula de hoje iremos aprender como utilizar o template engine do EJS, para rea
     ☐ Demonstração: bcryptjs (npm i bcryptjs)
     ☐ Demonstração: node-fetch (npm i node-fetch@2)
     ☐ Demonstração: UUID (npm i uuid)
-    ☐ Demonstração: Faker, está deverá ser instalada em modo de desenvolvimento (npm i faker -D)
+    ☐ Demonstração: Faker, está deverá ser instalada em modo de desenvolvimento (npm install @faker-js/faker -D)
     
     1.2- Gerar o 'banco de dados':
       ☐ Demonstração: Executar o script que está na pasta utils > generateFakerCommerceDatabase.js
@@ -48,8 +48,8 @@ Na aula de hoje iremos aprender como utilizar o template engine do EJS, para rea
 
   3.1 - Exercícios deixando uma página dinâmica:
     Neste exercício queremos deixar a view produto.ejs dinâmica, ou seja, quando o cliente clicar em algum produto da página inicial, ele deve ser redirecionado para esta view e nela deve conter a informações de determinado produto. Para conseguir realizar este exercício, será necessário:
-    ☐ Exercício: Criar a rota para está view
+    ☐ Exercício: Criar/modificar a rota para está view
       *Obs: Para deixar uma rota dinâmica, o que devemos insirar nela?
-    ☐ Exercício: Criar a lógica no controller para devolver os dados do produto solicitado pelo ... da rota 
+    ☐ Exercício: Criar a lógica no controller para devolver os dados do produto solicitado pelo parâmetro da rota 
     ☐ Exercício: Deixar a view dinâmica de acordo com os dados recebidos do back-end
 
