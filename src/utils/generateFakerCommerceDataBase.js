@@ -6,13 +6,13 @@ const bcrypt = require('bcryptjs');
 const fetch = require('node-fetch');
 
 class Product {
-    #id;
-    #name;
-    #description;
-    #price;
-    #image;
-    #active;
-    #stock;
+    id;
+    name;
+    description;
+    price;
+    image;
+    active;
+    stock;
 
     constructor(name, description, price, image, active, stock) {
         this.id = generateID();
@@ -26,17 +26,18 @@ class Product {
 }
 
 class User {
-    #id;
-    #name;
-    #email;
-    #password;
-    #cep;
-    #state;
-    #city;
-    #street;
-    #hoseNumber;
-    #neighboord;
-    #tel;
+    id;
+    name;
+    email;
+    password;
+    cep;
+    state;
+    city;
+    street;
+    hoseNumber;
+    neighboord;
+    tel;
+    isAdmin = false;
 
     constructor(name, email, password) {
         const hash = bcrypt.hashSync(password, 10);

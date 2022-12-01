@@ -1,105 +1,121 @@
 {
     "users": [
         {
-            "id": "47071873-113a-49bc-af7b-d324e83e1745",
-            "name": "Roxanne Osinski",
-            "email": "candace_dare@yahoo.com",
-            "password": "$2a$10$RuSL8FRYCw6Cf4e0O4jxS.kzrO2iTIh0utc/yM8OZiTmK7XTtqidm"
+            "id": "2bc43d46-f2cc-49b4-ab4d-405e80c0034a",
+            "name": "Kendra Nolan",
+            "email": "margaretta.ebert75@gmail.com",
+            "password": "$2a$10$V8LfqbY4mhW1n4vmbcLZb.uQcsP4MnsjEi8xDgIFPQVIoyY9.PrOS",
+            "isAdmin": false
         },
         {
-            "id": "0bdc46b2-f2c7-42b7-8db9-10f98e6c486d",
-            "name": "Van Thiel",
-            "email": "sheridan97@gmail.com",
-            "password": "$2a$10$jhtnaojYPLVlvQW6aWcY8O2GI05guYq6bLg1sM0J4bxSbUF1yImTS"
+            "id": "863135ec-b17d-4b27-9f75-3aace1585997",
+            "name": "Ms. Wilfred Roberts IV",
+            "email": "iva.hansen12@gmail.com",
+            "password": "$2a$10$Vcb1jEj6FZgboc5dLGI/lOy4QxjoZCtlKAXUidp3v19heNiuLb1d6",
+            "isAdmin": false
         },
         {
-            "id": "dcf9f06c-7d77-4f85-b239-b551943e27d8",
-            "name": "Earl Baumbach",
-            "email": "rylee45@hotmail.com",
-            "password": "$2a$10$sj9kRKRCKFrYnYNSujLQye9Ij7nTSs09GlS1.Ujr60XgWl1G51rkq"
+            "id": "64bfd6a0-ccfb-4824-9ab3-95ee2365500a",
+            "name": "Mr. Ramona Howe",
+            "email": "torrey.ullrich31@gmail.com",
+            "password": "$2a$10$DDaCStu73PU/EyJds0zKmujxUrumDPEc/g7FnPO0gn6f3om5q3ei2",
+            "isAdmin": false
         },
         {
-            "id": "d3df6b70-c70e-4055-9d28-175bf2466d8e",
-            "name": "Dale Emard",
-            "email": "walter.von@yahoo.com",
-            "password": "$2a$10$OwK2fbohdSDVz/HQyy0E5u8wRCxzt07YH77HqswvHX/BDSqUd1Tj6"
+            "id": "1788ab8b-797c-4378-85a1-a5708ce70157",
+            "name": "Dr. Julie O'Connell DDS",
+            "email": "howard0@hotmail.com",
+            "password": "$2a$10$xguJD56U8w5GluY/h8v5x.RMg7MgbekcifRM3m488/Kt1gn/VSSDe",
+            "isAdmin": false
         },
         {
-            "id": "8b1f6433-efa1-4590-89fc-8d81fda90dd1",
-            "name": "Kristy Anderson",
-            "email": "wilton38@gmail.com",
-            "password": "$2a$10$1UlGbXKScGtDdgoudH.pzOeNnn49DfQqfiFKIa.ECPuVNzypvSJI2"
+            "id": "218c9aac-cc51-4c6e-bc13-1b238c36fef4",
+            "name": "Josefina Robel",
+            "email": "izaiah.connelly75@gmail.com",
+            "password": "$2a$10$FGLpeFiqgc4yfP1EvKsm4.I5Sryc/qkaKdbr6ybMtCE15QhTSZzEi",
+            "isAdmin": false
         },
         {
-            "id": "4e614333-31ce-4943-aa18-309551785509",
-            "name": "Dr. Jessica Goodwin",
-            "email": "jeremy.funk@yahoo.com",
-            "password": "$2a$10$B8wE8XQ9UZj9y7HtvzuXg.bI6ZNPyO3fVwNaszTm9n/q/CXehy0pi"
+            "id": "792bb90b-d1ae-42c2-b165-907618a49118",
+            "name": "Patti Reinger",
+            "email": "leslie44@yahoo.com",
+            "password": "$2a$10$mjArcdK0EvsPGEIArepCpeJvlE4PfpTKjYPNdvW9p2guBXcIirBv.",
+            "isAdmin": false
         },
         {
-            "id": "d94c57aa-eaf0-43ed-810a-afdcd0157fb8",
-            "name": "Wendell Gulgowski",
-            "email": "candice.langosh@hotmail.com",
-            "password": "$2a$10$CjJVYGmo48i777YfsYbt2.22RS2rX6AmnYZ7QOp3XeZjDlt0u5k4u"
+            "id": "e71dc225-f9fa-4ce4-a9cb-7226df1baae8",
+            "name": "Carolyn Runolfsson",
+            "email": "dorothy_kassulke@yahoo.com",
+            "password": "$2a$10$cW8ziIueuawrUqpLNnOomeKsTILJg7k.YCjcxDTdsDM9IVmb2o0cK",
+            "isAdmin": false
         },
         {
-            "id": "3130e082-70fe-4974-837f-2afc12875a9a",
-            "name": "Miss Gordon Heathcote",
-            "email": "kiana.beahan@hotmail.com",
-            "password": "$2a$10$sgSL76z2MbZGjbrXJaags.1fu5sldE6km1atPIsHenrLnekfSuYLG"
+            "id": "c911ae09-d7d6-4746-81de-d886f56f8409",
+            "name": "Jeff Weber",
+            "email": "davonte_morissette91@hotmail.com",
+            "password": "$2a$10$coYuS64YWQY/ASqffd5YfOhUBqnxroXt2jOaTkY5zZoNGdDg.QkaO",
+            "isAdmin": false
         },
         {
-            "id": "933c7cc6-e0f7-4289-bf49-ab1921d0c38c",
-            "name": "Seth Langosh",
-            "email": "josue_champlin@yahoo.com",
-            "password": "$2a$10$FMZynNUnEAVB.3osWXJdxeky0WBg4ndGOQRz6JT8Wl4Ro3.Y1tqau"
+            "id": "43604ae1-a880-405e-a3eb-d739a2d1fb37",
+            "name": "Nicolas Kozey",
+            "email": "lempi59@gmail.com",
+            "password": "$2a$10$AnIWhGMYCt0PJNoS4lvWhOpRkD9nJwZcC5TzsyTle07MCGbhl1Hmy",
+            "isAdmin": false
         },
         {
-            "id": "dc99b441-fe0c-4042-ae57-73c365a49b82",
-            "name": "Cody Mitchell",
-            "email": "clyde_labadie38@hotmail.com",
-            "password": "$2a$10$CyPkGBJsQEkH6cH.fIHWHu26fDAsNZ2rRZrVIYg2vHHgsA5UyBGeG"
+            "id": "8e2bacba-7e0a-45f2-9f79-f725370d82f6",
+            "name": "Forrest Langosh",
+            "email": "erwin_schroeder63@yahoo.com",
+            "password": "$2a$10$z2PM/mrKzQbhdUtD8YwlhuK8h8wJBAfXKoxxBl0c86GoUtlXHpARO",
+            "isAdmin": false
         },
         {
-            "id": "97056e06-a062-4241-87e9-e25d0571402f",
-            "name": "Shannon Donnelly",
-            "email": "lou_lang6@gmail.com",
-            "password": "$2a$10$ZA4GbY8LHP8FJeRbJC6hmeVOnZ9GEXrIMzz0LIE3CXhVtcROlRZpK"
+            "id": "21c23ff5-f33f-49a8-8c80-5de699a857b4",
+            "name": "Elaine Medhurst",
+            "email": "nigel55@gmail.com",
+            "password": "$2a$10$kN2IdfFWW6plUbDvBoOTref3Xqym3x1WGIuFxOqjddg5kyHY65V/K",
+            "isAdmin": false
         },
         {
-            "id": "5f607369-52ee-484a-8b38-d9b07626c16a",
-            "name": "Salvatore Wyman",
-            "email": "julius28@hotmail.com",
-            "password": "$2a$10$15HKvDdk3wWSpBmbiO/a1.spkfg0JT7SVBXywWy2UjybPyllEKJiS"
+            "id": "66b2c739-e8f6-4f1a-8b98-20b9a3ec8c16",
+            "name": "Krystal Bednar",
+            "email": "marjolaine64@yahoo.com",
+            "password": "$2a$10$UcstxQq8kjfen8ySXndhM.S51BsS6jDC2aZS1zCOyjOFPcqqLY68m",
+            "isAdmin": false
         },
         {
-            "id": "2377e4f4-da3a-42ff-93ed-a8064f64555f",
-            "name": "Willie Feil",
-            "email": "william_dach59@hotmail.com",
-            "password": "$2a$10$7B.EFl8Zz54P4fmsYPFRWOszSPHxVRSU/2Zi0YhSlPUpUbCFdP1rW"
+            "id": "38bbc824-c42f-4f80-8348-3367eeeb5faf",
+            "name": "Brooke Schmeler III",
+            "email": "xander.raynor18@yahoo.com",
+            "password": "$2a$10$odGeTUuEWqQinhI4/Tgzu.YVS4tB4atcK72kOK5y/AOnUEjr74EKG",
+            "isAdmin": false
         },
         {
-            "id": "7e413bf8-df48-4912-be2b-d4177c41aae1",
-            "name": "Blake Rosenbaum",
-            "email": "ward.breitenberg@yahoo.com",
-            "password": "$2a$10$T3LvoNSuHofewS0QECRNM.UPkDXcbNXKtlDM7NuB6oeKGMyzQn1Ou"
+            "id": "6bbe7c47-1cb6-41f0-a188-5bc5764e07a2",
+            "name": "Ervin Bashirian",
+            "email": "shana_lehner97@gmail.com",
+            "password": "$2a$10$3NenAJRo4WcPFq7DEOU8d.TVVhnPznCiJVd2qtYSES9PiIVnBEGoa",
+            "isAdmin": false
         },
         {
-            "id": "7d626b45-24da-435d-9bc7-7b336e1c2ca7",
-            "name": "Miss Marie Kunze Jr.",
-            "email": "cristopher.blick@yahoo.com",
-            "password": "$2a$10$O2Alj/HFGvMX7Z2kVRqSfeh8BTXe3Zh2/2ztKzv5BPf0o4U3IaZky"
+            "id": "27cf9a02-24b6-4e53-8b4a-a076ec84b989",
+            "name": "Miss Rita Swift",
+            "email": "alec_ankunding@gmail.com",
+            "password": "$2a$10$69jhf2DwJnss6.mWyqDmA.m52rNz5zPWx.IHoEthVsZKzbdnDT.Iy",
+            "isAdmin": false
         },
         {
-            "id": "75b063dc-2d5b-486f-8f18-8074240d795b",
-            "name": "Hilda Casper",
-            "email": "allie8@gmail.com",
-            "password": "$2a$10$4T0puXwwQYUM/yEduTfnIOTgf1C0XiVNBA8CR0pAkmCCshOfVU6Gi"
+            "id": "263ea53d-d55c-4564-99b1-d30392a5281f",
+            "name": "Christian Wolf",
+            "email": "jalon53@hotmail.com",
+            "password": "$2a$10$VRPxu3T2yWrUwB3C6Xfn4.OyXZO3fMhRNJ8./bqhhQM.uK2lOeNWu",
+            "isAdmin": false
         }
     ],
     "products": [
         {
-            "id": "8d08fb95-aa55-4197-a5aa-8cf67fb302cf",
+            "id": "ea3d68af-de19-4d45-be94-f539683cb348",
             "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
             "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
             "price": "R$ 109,95",
@@ -108,7 +124,7 @@
             "stock": true
         },
         {
-            "id": "d42d6ced-a0cb-462e-963e-c0b02f73662c",
+            "id": "5d05b0c0-ebf3-4e32-9587-9c3545f9a9d6",
             "name": "Mens Casual Premium Slim Fit T-Shirts ",
             "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
             "price": "R$ 22,30",
@@ -117,7 +133,7 @@
             "stock": true
         },
         {
-            "id": "55ebe0fa-3fcc-4212-8817-21c2811e63b1",
+            "id": "9c87b032-3a7c-4c02-9318-decdb4b79882",
             "name": "Mens Cotton Jacket",
             "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
             "price": "R$ 55,99",
@@ -126,7 +142,7 @@
             "stock": true
         },
         {
-            "id": "f8f2b625-4dc2-42d0-93c6-933acad71520",
+            "id": "87732543-3c90-4f5d-903d-62538587f5cc",
             "name": "Mens Casual Slim Fit",
             "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
             "price": "R$ 15,99",
@@ -135,7 +151,7 @@
             "stock": true
         },
         {
-            "id": "57810a64-11a5-4804-b760-174239f902fd",
+            "id": "1481e91f-a542-457f-a3d4-0c4e40da8b92",
             "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
             "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
             "price": "R$ 695,00",
@@ -144,7 +160,7 @@
             "stock": true
         },
         {
-            "id": "8b6725a7-015c-4a2b-8535-ab419ff1bf10",
+            "id": "6f385511-2bff-45dc-8f9d-3c82a0808d25",
             "name": "Solid Gold Petite Micropave ",
             "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
             "price": "R$ 168,00",
@@ -153,7 +169,7 @@
             "stock": true
         },
         {
-            "id": "a9815433-bd79-494a-b695-7a2faf60acb7",
+            "id": "c265d32c-6b23-4332-a941-ff4c7db425f0",
             "name": "White Gold Plated Princess",
             "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
             "price": "R$ 9,99",
@@ -162,7 +178,7 @@
             "stock": true
         },
         {
-            "id": "0b941386-55c5-49d2-a72d-02b3894345cc",
+            "id": "7a4baacc-428d-4b1d-a49b-032f3e21652b",
             "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
             "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
             "price": "R$ 10,99",
@@ -171,7 +187,7 @@
             "stock": true
         },
         {
-            "id": "8a15ddec-961c-4eef-82c3-f3989a8984e3",
+            "id": "04e07b9e-99eb-44ef-b548-31b1a1fb67cd",
             "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
             "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
             "price": "R$ 64,00",
@@ -180,7 +196,7 @@
             "stock": true
         },
         {
-            "id": "3fb316c2-f920-4451-9fc1-912ad328768e",
+            "id": "bf53d791-ba88-46e1-b2f6-d780fe7ac31e",
             "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
             "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
             "price": "R$ 109,00",
@@ -189,7 +205,7 @@
             "stock": true
         },
         {
-            "id": "5cb7a310-aab3-4145-99c2-344d8c8ee1f1",
+            "id": "568ff5d8-8551-4ffe-b6f9-9554bb6c27b7",
             "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
             "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
             "price": "R$ 109,00",
@@ -198,7 +214,7 @@
             "stock": true
         },
         {
-            "id": "00f172a9-0328-485f-9d4a-7db9ced50c0b",
+            "id": "34a43182-fa9a-4372-af13-1d01546f34e8",
             "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
             "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
             "price": "R$ 114,00",
@@ -207,7 +223,7 @@
             "stock": true
         },
         {
-            "id": "4e918c9c-593f-4922-b8a4-88a26bca21bf",
+            "id": "58b43df3-6a5a-46c5-8ff4-6796d2a9ed3b",
             "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
             "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
             "price": "R$ 599,00",
@@ -216,7 +232,7 @@
             "stock": true
         },
         {
-            "id": "d1d002e3-e1e5-40d1-b8ff-908a5246c058",
+            "id": "266cf1bd-d725-4031-a4e4-ae0772938bd0",
             "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
             "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
             "price": "R$ 999,99",
@@ -225,7 +241,7 @@
             "stock": true
         },
         {
-            "id": "036bb60d-54ad-4f53-949d-60dbf07db8bd",
+            "id": "5e1f00d5-ecf4-4435-bb8a-3e93b60cfb35",
             "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
             "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
             "price": "R$ 56,99",
@@ -234,7 +250,7 @@
             "stock": true
         },
         {
-            "id": "3e01cdec-9aea-4b71-8fe6-edc0753e7e45",
+            "id": "8b560209-5f76-4806-a0a9-c76543abdd0b",
             "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
             "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
             "price": "R$ 29,95",
